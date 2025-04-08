@@ -3,6 +3,13 @@
 /android/
 
 # Olkris's selective include
-*/
-!Splatoon calculator/
-!ARCHA UI/
+/*/
+gitmultipush.bat
+gitmultiswap.bat
+!ARCHA UI/*.*
+!ARCHA UI/Content panel display styles/
+!ARCHA UI/Branches/Splatool/
+
+
+
+

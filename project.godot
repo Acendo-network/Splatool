@@ -11,6 +11,11 @@ config_version=5
 [application]
 
 config/name="ARCHA"
-run/main_scene="res://ARCHA UI/Full UI.tscn"
-config/features=PackedStringArray("4.3", "Mobile")
-config/icon="res://icon.svg"
+config/version="1.0.1"
+run/main_scene="res://ARCHA UI/ARCHA UI.tscn"
+config/features=PackedStringArray("4.4", "Mobile")
+config/icon="res://ARCHA UI/Branches/Splatool/resources/Splatoon icons/Curling.png"
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/code_time/plugin.cfg")
