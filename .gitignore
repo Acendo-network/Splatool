@@ -8,8 +8,4 @@ gitmultipush.bat
 gitmultiswap.bat
 !ARCHA UI/*.*
 !ARCHA UI/Content panel display styles/
-!ARCHA UI/Branches/Splatool/
-
-
-
-
+!BMP display/
