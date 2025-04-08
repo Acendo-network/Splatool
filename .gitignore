@@ -6,6 +6,8 @@
 /*/
 gitmultipush.bat
 gitmultiswap.bat
+!ARCHA UI/
+ARCHA UI/*/
 !ARCHA UI/*.*
 !ARCHA UI/Content panel display styles/
 !BMP display/
